@@ -26,7 +26,7 @@
 
 
 ## About Me
-I am a data scientist, analyst, and engineer with a strong passion for AI applications and expertise in MLOps. My goal is to leverage my programming skills and data analysis expertise to develop innovative solutions.
+I am a data scientist, petroleum engineer, and analyst with a strong passion for AI applications and expertise in MLOps. My goal is to leverage my engineering, programming skills and data analysis expertise to develop innovative solutions.
 
 
 - 🔭 I’m currently exploring the intersection of AI and MLOps
